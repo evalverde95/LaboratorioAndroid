@@ -10,7 +10,7 @@ La interfaz cuenta con 6 botones que cambian de color, la aplicación se llama L
 
 
 <p>
-    <img src="rm_img/UI.png"/>
+    <img src="./rm_img/UI.png"/>
 </p>
 
 
