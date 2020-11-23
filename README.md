@@ -8,7 +8,7 @@ Esteban Valverde Hernández, e.valverde95@hotmail.com
 
 La interfaz cuenta con 6 botones que cambian de color, la aplicación se llama LaboratorioAndroid y cada botón tiene un sonido asignado.
 
-<center><img src="UI.png"></center>
+<center><img src="./UI.png"></center>
 
 ## Uso
 
